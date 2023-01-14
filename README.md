@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-- 🏄🏻‍♂️ General interests: Health hacks, meditation, surfing, mixed martial arts, essentialism, entrepreneurism, music, cinema, learning new languages, nature, food, traveling and more.
+- 🏄🏻‍♂️ General interests: Health "hacks", meditation, surfing, mixed martial arts, essentialism, entrepreneurism, music, cinema, learning new languages, nature, food, traveling and more.
 - 🌱 I am currently working on mastering my JavaScript skills, and getting into Web3 development.
 - 🌎 Eager to continue creating and collaborating through mediums that inspire people to live a healthier, fuller and more joyful life.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/germanokuerten/)
